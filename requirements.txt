@@ -1,0 +1,5 @@
+
+streamlit
+kiteconnect
+joblib
+numpy
